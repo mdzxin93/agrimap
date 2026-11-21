@@ -1,6 +1,11 @@
 # AgriMap
 Windows desktop GIS prototype for agricultural field records and synthetic survey geometry.
 
+## Screenshots
+
+![AgriMap field overview](docs/screenshots/agrimap-dashboard.png)
+
+The screenshot uses the included synthetic sample dataset: 10 one-acre plots and 40 reference points.
 ## Features
 - PySide6 desktop interface with dark-green navigation and overview metrics.
 - SQLite storage for field boundaries and reference points.
